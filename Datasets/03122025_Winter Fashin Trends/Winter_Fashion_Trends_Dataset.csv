@@ -1,0 +1,151 @@
+ID,Brand,Category,Color,Material,Style,Gender,Season,Price(USD),Popularity_Score,Customer_Rating,Trend_Status
+1,Adidas,Gloves,Brown,Polyester,Streetwear,Women,Winter 2025,244.06,6.0,4.9,Trending
+2,Gucci,Gloves,Red,Leather,Sporty,Men,Winter 2023,366.73,8.8,3.3,Trending
+3,H&M,Coat,Brown,Fleece,Streetwear,Unisex,Winter 2025,741.55,4.8,3.5,Trending
+4,North Face,Coat,Blue,Cashmere,Formal,Men,Winter 2024,116.09,7.5,3.1,Outdated
+5,Mango,Thermal,Blue,Cashmere,Formal,Unisex,Winter 2025,193.16,7.8,4.3,Outdated
+6,Uniqlo,Thermal,Black,Fleece,Formal,Unisex,Winter 2025,699.85,1.7,4.2,Outdated
+7,Uniqlo,Coat,Gray,Fleece,Casual,Men,Winter 2025,497.79,9.7,3.0,Trending
+8,Mango,Sweater,Cream,Cotton,Streetwear,Unisex,Winter 2025,579.37,6.6,3.8,Outdated
+9,Gucci,Gloves,Brown,Cotton,Casual,Unisex,Winter 2024,315.96,6.2,2.8,Outdated
+10,Mango,Scarf,Maroon,Leather,Luxury,Unisex,Winter 2023,468.58,2.5,4.9,Classic
+11,Gucci,Beanie,Gray,Cotton,Sporty,Unisex,Winter 2023,452.18,3.3,2.6,Outdated
+12,Adidas,Scarf,Green,Polyester,Streetwear,Women,Winter 2024,568.66,2.6,3.1,Emerging
+13,Zara,Cardigan,Beige,Cashmere,Luxury,Men,Winter 2023,532.17,1.2,2.5,Trending
+14,Mango,Thermal,Beige,Cashmere,Streetwear,Men,Winter 2025,95.96,2.4,3.3,Classic
+15,Uniqlo,Gloves,Brown,Cashmere,Formal,Unisex,Winter 2025,735.62,5.8,4.0,Classic
+16,Uniqlo,Scarf,Brown,Wool,Formal,Women,Winter 2023,52.28,3.9,3.7,Classic
+17,H&M,Jacket,White,Fleece,Formal,Men,Winter 2023,694.54,6.2,3.1,Emerging
+18,Adidas,Cardigan,White,Leather,Casual,Men,Winter 2025,779.5,2.5,4.3,Trending
+19,Mango,Cardigan,Gray,Cashmere,Luxury,Women,Winter 2025,640.65,8.4,4.1,Outdated
+20,Prada,Sweater,Beige,Wool,Streetwear,Women,Winter 2024,702.19,6.4,3.2,Outdated
+21,Prada,Coat,Red,Fleece,Formal,Unisex,Winter 2024,586.84,6.4,4.7,Emerging
+22,Gucci,Coat,Black,Leather,Streetwear,Unisex,Winter 2025,134.66,4.7,3.3,Outdated
+23,North Face,Hoodie,Beige,Cotton,Casual,Unisex,Winter 2025,143.48,6.5,4.5,Emerging
+24,Mango,Thermal,Gray,Cotton,Casual,Unisex,Winter 2023,359.6,5.1,2.9,Outdated
+25,North Face,Jacket,Brown,Cashmere,Sporty,Men,Winter 2025,657.77,4.8,4.4,Emerging
+26,Mango,Sweater,Cream,Polyester,Sporty,Women,Winter 2023,628.75,9.3,2.9,Emerging
+27,Levi's,Scarf,Maroon,Polyester,Luxury,Men,Winter 2024,146.36,2.6,3.6,Outdated
+28,Adidas,Thermal,Black,Wool,Casual,Men,Winter 2023,742.55,9.5,3.8,Trending
+29,Prada,Jacket,Black,Cashmere,Streetwear,Unisex,Winter 2023,269.24,1.3,3.5,Classic
+30,Mango,Hoodie,Black,Down,Streetwear,Men,Winter 2025,737.02,7.7,3.5,Outdated
+31,H&M,Beanie,Beige,Polyester,Sporty,Men,Winter 2025,716.93,8.6,4.1,Trending
+32,North Face,Sweater,Black,Cashmere,Sporty,Men,Winter 2024,730.08,6.0,3.4,Emerging
+33,North Face,Scarf,Red,Fleece,Casual,Unisex,Winter 2025,380.94,9.0,4.4,Emerging
+34,Prada,Thermal,Red,Wool,Streetwear,Men,Winter 2025,442.34,8.5,3.0,Emerging
+35,North Face,Hoodie,Gray,Cotton,Sporty,Women,Winter 2024,658.41,1.3,4.1,Classic
+36,Mango,Thermal,Blue,Polyester,Formal,Women,Winter 2025,441.74,2.7,4.8,Classic
+37,Gucci,Scarf,Cream,Fleece,Formal,Men,Winter 2024,461.34,3.0,2.9,Classic
+38,Mango,Sweater,Gray,Cashmere,Streetwear,Men,Winter 2024,338.89,7.9,3.0,Classic
+39,Gucci,Scarf,Brown,Down,Luxury,Unisex,Winter 2023,678.23,6.6,4.3,Outdated
+40,Gucci,Beanie,White,Down,Luxury,Women,Winter 2025,645.24,8.0,4.7,Classic
+41,Zara,Cardigan,Cream,Cotton,Streetwear,Men,Winter 2024,384.3,4.9,3.5,Emerging
+42,North Face,Hoodie,Gray,Fleece,Luxury,Women,Winter 2024,248.0,8.6,2.8,Classic
+43,Zara,Beanie,Blue,Leather,Sporty,Women,Winter 2023,399.37,9.2,3.8,Classic
+44,Gucci,Sweater,Beige,Cashmere,Streetwear,Women,Winter 2024,233.34,3.0,4.4,Trending
+45,Nike,Beanie,Blue,Wool,Sporty,Women,Winter 2023,710.14,4.0,4.5,Outdated
+46,H&M,Sweater,Gray,Leather,Streetwear,Unisex,Winter 2025,328.83,7.0,4.6,Trending
+47,Gucci,Thermal,Maroon,Cotton,Luxury,Unisex,Winter 2024,530.44,3.7,3.3,Classic
+48,Zara,Beanie,Brown,Fleece,Sporty,Men,Winter 2023,118.72,9.3,2.8,Emerging
+49,Nike,Gloves,Brown,Cotton,Casual,Women,Winter 2023,77.51,6.9,3.4,Trending
+50,Nike,Boots,Blue,Cashmere,Sporty,Unisex,Winter 2023,414.74,9.4,3.0,Trending
+51,Zara,Gloves,Black,Down,Casual,Unisex,Winter 2024,318.42,9.4,4.7,Outdated
+52,H&M,Hoodie,Beige,Leather,Formal,Unisex,Winter 2025,632.31,8.4,4.7,Trending
+53,Nike,Scarf,Blue,Wool,Luxury,Men,Winter 2025,239.64,2.4,3.0,Trending
+54,Prada,Coat,Black,Wool,Formal,Men,Winter 2024,788.03,6.1,3.2,Emerging
+55,North Face,Sweater,Black,Wool,Luxury,Men,Winter 2025,100.02,3.1,4.4,Outdated
+56,Prada,Boots,Beige,Cotton,Formal,Men,Winter 2023,342.14,5.2,2.8,Outdated
+57,Uniqlo,Coat,Black,Leather,Sporty,Women,Winter 2023,747.33,1.8,5.0,Trending
+58,Prada,Jacket,Green,Cotton,Streetwear,Unisex,Winter 2024,106.07,3.7,4.1,Trending
+59,North Face,Cardigan,Beige,Polyester,Luxury,Men,Winter 2024,316.58,4.9,2.6,Trending
+60,Zara,Jacket,Green,Cashmere,Sporty,Unisex,Winter 2023,63.68,9.7,4.4,Trending
+61,Mango,Thermal,Red,Cashmere,Sporty,Unisex,Winter 2025,350.2,7.8,3.8,Outdated
+62,H&M,Thermal,Gray,Polyester,Sporty,Unisex,Winter 2023,389.24,6.4,4.7,Outdated
+63,Prada,Cardigan,Black,Wool,Casual,Women,Winter 2025,79.86,2.6,4.5,Emerging
+64,Nike,Boots,Red,Down,Streetwear,Unisex,Winter 2024,385.11,3.2,2.6,Emerging
+65,Prada,Jacket,Cream,Leather,Formal,Unisex,Winter 2024,634.77,2.6,4.8,Emerging
+66,Mango,Boots,White,Cotton,Sporty,Women,Winter 2025,447.81,4.3,3.9,Outdated
+67,North Face,Jacket,White,Down,Streetwear,Men,Winter 2023,365.88,9.0,4.0,Trending
+68,Zara,Gloves,Beige,Fleece,Sporty,Men,Winter 2025,739.46,1.3,2.8,Outdated
+69,Uniqlo,Hoodie,Cream,Down,Casual,Women,Winter 2023,632.49,8.3,3.9,Outdated
+70,Mango,Scarf,Cream,Cashmere,Formal,Women,Winter 2023,487.93,9.8,3.5,Trending
+71,Mango,Boots,Cream,Leather,Casual,Men,Winter 2024,690.95,7.3,4.0,Trending
+72,North Face,Cardigan,Red,Leather,Sporty,Women,Winter 2023,536.2,1.5,3.4,Classic
+73,Prada,Jacket,Maroon,Polyester,Sporty,Women,Winter 2025,499.38,3.4,4.6,Trending
+74,Adidas,Cardigan,Green,Polyester,Streetwear,Unisex,Winter 2025,771.33,5.4,3.6,Emerging
+75,H&M,Beanie,Beige,Cotton,Streetwear,Women,Winter 2025,575.38,5.0,4.4,Trending
+76,Uniqlo,Beanie,Gray,Cashmere,Sporty,Women,Winter 2024,629.22,1.1,5.0,Outdated
+77,Nike,Boots,Green,Cashmere,Streetwear,Men,Winter 2024,81.77,7.3,3.7,Emerging
+78,North Face,Coat,Gray,Leather,Streetwear,Unisex,Winter 2024,351.42,9.9,3.6,Outdated
+79,H&M,Gloves,White,Cotton,Luxury,Unisex,Winter 2024,331.34,9.1,4.1,Trending
+80,H&M,Gloves,White,Cotton,Luxury,Women,Winter 2023,407.91,1.3,3.3,Trending
+81,Mango,Gloves,Beige,Polyester,Sporty,Men,Winter 2024,30.07,4.9,2.7,Outdated
+82,Levi's,Cardigan,Red,Cashmere,Streetwear,Unisex,Winter 2023,210.74,9.6,3.8,Classic
+83,Uniqlo,Scarf,Green,Down,Streetwear,Women,Winter 2025,198.07,4.3,4.1,Trending
+84,Nike,Cardigan,Red,Cotton,Streetwear,Unisex,Winter 2024,435.24,7.7,3.5,Outdated
+85,Prada,Scarf,Green,Fleece,Sporty,Unisex,Winter 2023,752.0,3.8,5.0,Trending
+86,Mango,Sweater,White,Down,Formal,Unisex,Winter 2024,559.9,9.5,4.9,Trending
+87,H&M,Sweater,Black,Fleece,Casual,Women,Winter 2024,65.26,6.7,3.3,Outdated
+88,North Face,Thermal,White,Cotton,Casual,Unisex,Winter 2023,125.25,4.0,4.4,Emerging
+89,Zara,Beanie,Brown,Polyester,Luxury,Women,Winter 2024,72.01,6.8,3.7,Trending
+90,Gucci,Sweater,Black,Polyester,Sporty,Women,Winter 2025,632.52,9.0,4.8,Emerging
+91,Mango,Coat,Beige,Wool,Formal,Unisex,Winter 2023,532.99,9.4,3.1,Emerging
+92,Nike,Hoodie,Black,Fleece,Luxury,Women,Winter 2024,705.85,1.8,3.7,Trending
+93,Uniqlo,Gloves,Brown,Cashmere,Luxury,Women,Winter 2023,677.98,1.4,4.8,Classic
+94,Mango,Scarf,Cream,Fleece,Formal,Men,Winter 2024,321.9,6.5,4.0,Outdated
+95,Gucci,Hoodie,Cream,Cashmere,Formal,Men,Winter 2025,513.28,2.7,3.1,Emerging
+96,Uniqlo,Scarf,Cream,Cotton,Luxury,Women,Winter 2025,738.25,3.3,3.5,Trending
+97,Levi's,Sweater,Brown,Down,Streetwear,Women,Winter 2023,241.85,6.1,3.0,Classic
+98,Nike,Scarf,Brown,Leather,Streetwear,Women,Winter 2024,782.43,8.3,2.8,Outdated
+99,Zara,Thermal,Beige,Wool,Formal,Unisex,Winter 2024,444.81,7.7,3.2,Emerging
+100,North Face,Thermal,Maroon,Down,Casual,Women,Winter 2023,69.14,4.1,4.9,Emerging
+101,Mango,Gloves,Brown,Fleece,Streetwear,Unisex,Winter 2023,488.02,9.8,2.6,Classic
+102,Zara,Gloves,White,Cotton,Luxury,Women,Winter 2024,559.21,6.2,4.8,Trending
+103,Mango,Cardigan,Red,Cotton,Formal,Women,Winter 2024,554.73,5.7,4.7,Outdated
+104,Mango,Hoodie,Blue,Fleece,Luxury,Women,Winter 2024,225.28,2.2,3.7,Classic
+105,Adidas,Jacket,Beige,Fleece,Luxury,Women,Winter 2024,771.22,9.2,4.3,Outdated
+106,Zara,Scarf,White,Polyester,Streetwear,Unisex,Winter 2023,446.46,10.0,2.7,Outdated
+107,Levi's,Thermal,Maroon,Leather,Luxury,Men,Winter 2025,542.67,5.9,2.6,Classic
+108,Nike,Beanie,Cream,Down,Sporty,Women,Winter 2025,155.85,9.4,3.0,Outdated
+109,Zara,Jacket,Maroon,Leather,Luxury,Men,Winter 2025,779.42,4.5,4.8,Trending
+110,Uniqlo,Jacket,Gray,Fleece,Formal,Women,Winter 2024,196.88,3.1,3.6,Classic
+111,North Face,Boots,Brown,Cotton,Sporty,Unisex,Winter 2025,574.38,5.4,2.7,Emerging
+112,Prada,Scarf,Maroon,Fleece,Streetwear,Women,Winter 2025,127.55,4.5,4.4,Outdated
+113,Gucci,Scarf,Beige,Cotton,Luxury,Men,Winter 2025,440.14,7.4,4.6,Outdated
+114,North Face,Coat,Gray,Fleece,Formal,Men,Winter 2024,445.18,7.8,4.0,Outdated
+115,Prada,Gloves,Beige,Polyester,Luxury,Women,Winter 2025,398.21,3.3,4.9,Trending
+116,H&M,Beanie,Brown,Fleece,Formal,Men,Winter 2023,379.09,3.4,4.4,Trending
+117,Adidas,Thermal,Beige,Fleece,Formal,Men,Winter 2025,511.0,5.5,3.7,Outdated
+118,Uniqlo,Jacket,Red,Down,Formal,Women,Winter 2025,604.56,4.6,3.9,Trending
+119,Adidas,Scarf,Green,Cotton,Casual,Men,Winter 2024,508.61,9.0,4.3,Emerging
+120,Nike,Sweater,White,Fleece,Luxury,Men,Winter 2023,367.56,8.9,4.9,Classic
+121,North Face,Coat,Maroon,Cotton,Streetwear,Men,Winter 2025,512.29,6.3,2.8,Classic
+122,Mango,Boots,Black,Leather,Formal,Unisex,Winter 2025,522.28,8.5,4.2,Outdated
+123,Mango,Scarf,Green,Fleece,Luxury,Unisex,Winter 2025,400.19,6.6,2.7,Emerging
+124,Prada,Thermal,Black,Cotton,Formal,Unisex,Winter 2024,223.88,4.6,3.0,Emerging
+125,North Face,Gloves,Brown,Leather,Streetwear,Women,Winter 2024,281.5,6.0,4.2,Classic
+126,Nike,Sweater,Black,Polyester,Luxury,Men,Winter 2024,188.42,5.4,4.4,Classic
+127,Adidas,Gloves,Beige,Leather,Sporty,Unisex,Winter 2024,542.58,9.4,3.7,Trending
+128,North Face,Thermal,Black,Leather,Luxury,Women,Winter 2023,458.83,1.4,4.2,Outdated
+129,H&M,Hoodie,Beige,Cashmere,Casual,Women,Winter 2025,463.22,1.9,3.9,Emerging
+130,Mango,Boots,Maroon,Polyester,Luxury,Men,Winter 2025,295.41,7.6,3.8,Classic
+131,Zara,Coat,Red,Cotton,Casual,Unisex,Winter 2024,377.9,4.1,4.6,Outdated
+132,Uniqlo,Thermal,Blue,Fleece,Sporty,Unisex,Winter 2023,381.1,6.6,4.9,Outdated
+133,Levi's,Sweater,Beige,Down,Formal,Men,Winter 2025,585.44,2.0,3.1,Trending
+134,North Face,Boots,Black,Cotton,Formal,Unisex,Winter 2025,291.94,10.0,2.7,Outdated
+135,Gucci,Scarf,Beige,Leather,Sporty,Unisex,Winter 2023,765.47,5.3,3.6,Trending
+136,Uniqlo,Thermal,Brown,Down,Sporty,Women,Winter 2024,730.82,2.7,4.1,Outdated
+137,Levi's,Boots,Black,Fleece,Sporty,Women,Winter 2025,690.75,9.5,4.1,Outdated
+138,Nike,Scarf,Beige,Polyester,Sporty,Unisex,Winter 2024,313.17,9.3,3.5,Emerging
+139,Levi's,Hoodie,Brown,Down,Sporty,Women,Winter 2025,624.26,5.5,2.9,Trending
+140,Prada,Sweater,Maroon,Down,Sporty,Unisex,Winter 2025,646.41,9.2,4.6,Outdated
+141,H&M,Gloves,White,Wool,Formal,Men,Winter 2025,91.32,5.2,4.8,Trending
+142,Adidas,Scarf,Brown,Fleece,Casual,Unisex,Winter 2023,214.48,3.6,3.9,Classic
+143,Uniqlo,Sweater,White,Leather,Streetwear,Unisex,Winter 2025,644.97,5.7,2.7,Trending
+144,Levi's,Coat,Beige,Cotton,Sporty,Men,Winter 2023,637.56,5.4,4.5,Outdated
+145,H&M,Scarf,Red,Cotton,Casual,Unisex,Winter 2024,512.48,1.8,3.7,Outdated
+146,Mango,Coat,Green,Down,Casual,Women,Winter 2024,614.06,2.9,4.5,Emerging
+147,H&M,Jacket,Gray,Polyester,Formal,Unisex,Winter 2023,329.7,3.0,4.4,Outdated
+148,Uniqlo,Jacket,Gray,Leather,Casual,Unisex,Winter 2024,411.84,9.7,4.7,Outdated
+149,Prada,Beanie,Black,Wool,Formal,Unisex,Winter 2025,407.11,3.5,3.0,Classic
+150,Gucci,Gloves,Red,Down,Luxury,Men,Winter 2024,256.39,7.3,3.6,Outdated
