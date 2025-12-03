@@ -1,6 +1,7 @@
 #02-12-2025
-Getting Started with an Intro!
-From Excel Cells to AI Models: My Journey to "Daily-Concept-Proofing"
+## Getting Started with an Intro!
+
+**From Excel Cells to AI Models: My Journey to "Daily-Concept-Proofing"**
 
 I’m Sahil Utekar, and I believe that innovation happens when curiosity meets discipline.
 
