@@ -30,3 +30,29 @@ Let’s be honest—balancing a full-time corporate role by day and passion proj
 Dataset downloaded. Let's meet tomorrow to discuss the first improvements.
 
 🔗 **Try it yourself:** [Winter Fashion Trends on Kaggle](https://www.kaggle.com/datasets/ayeshaseherr/winter-fashoin-trends)
+
+#04_12_2025
+## 📊 Day 02: Shifting the Mindset – From Entry to Analysis
+
+**Yesterday's Recap:**
+We secured our raw material—the [Winter Fashion Trends Dataset](https://www.kaggle.com/datasets/ayeshaseherr/winter-fashoin-trends). Today, we stop collecting and start digging.
+
+**The Strategy: Back to Basics**
+I am starting this analysis with **Excel** (specifically, Home & Student 2021).
+
+Why Excel? I already have experience as a Data Entry/MIS Executive, but today is about a fundamental shift in **attitude**. There is a massive difference between **inputting** data and **interrogating** it. I am using this phase to polish my core skills and transition my mindset from "How do I type this?" to "What is this data telling me?"
+
+**The Simulation: The 35-Year Veteran**
+To make this real, I am not asking AI for the answers. Instead, I have instructed Google Gemini to adopt a persona:
+> *A Senior Data Analyst with 35+ years of rigorous field experience.*
+
+Gemini is acting as my Senior. It isn't giving me code; it is giving me **business questions**. My job is to use my Excel skills to find the answers. This simulates a real high-pressure corporate environment where the boss wants insights, not excuses.
+
+**Join the Challenge**
+I have uploaded the prompts, the "Senior's" questions, and hints in the `Resources` folder of this repository.
+
+* **The Rule:** Use your brain, not the internet.
+* **The Exception:** You may use the web only to look up specific formula syntax (e.g., nesting logic), but the logic of solving the problem must be yours.
+
+📂 **[Access the Challenge Prompts Here](./Resources/)**
+
