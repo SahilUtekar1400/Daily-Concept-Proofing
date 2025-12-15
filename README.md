@@ -127,3 +127,25 @@ I am not stopping; I am sprinting. I will be dedicating my focus to mastering AI
 
 See you on the other side of the course!
 
+#15-12-2025
+## 🛢️ Day 06: The Engine Room – Entering the World of SQL
+
+**The Return**
+After a strategic sprint into AI Agents, we are back to the core "Daily Concept Proofing" roadmap. We’ve conquered the visual layer with Excel; now, it’s time to go deeper. Today marks the beginning of our **SQL (Structured Query Language)** module.
+
+**The Shift: From Flat Files to Relational Systems**
+While Excel is excellent for analysis, SQL is the industry standard for *data retrieval and manipulation*. My goal is to start with the fundamentals and progressively dive deep into complex queries and optimization.
+
+**The Blueprint**
+To simulate a real-world retail environment, I have selected the **[Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)** from Kaggle.
+This isn't just one table; it's a system of multiple CSV files (Customers, Orders, Products, Staff).
+
+**Today's Mission: Schema Design**
+Before running queries, we must build the house.
+* **Ingestion:** Converting raw CSV files into structured SQL tables.
+* **Modeling:** Defining the "Relationships" (Primary Keys & Foreign Keys) that connect these tables.
+* **Goal:** To establish a fully functional Relational Database Schema that mimics a live store's backend.
+
+This is where the scattered data becomes a unified system.
+
+🔗 **Dataset:** [Bike Store Database on Kaggle](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
